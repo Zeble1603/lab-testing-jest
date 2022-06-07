@@ -1,3 +1,7 @@
+function helloIronhack() {
+  return 'Hello Ironhacker!';
+}
+
 describe('Hello Ironhack function', () => {
   // Describes the group of tests
   it('should greet an Ironhacker', () => {
